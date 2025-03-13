@@ -11,6 +11,7 @@ Professional Experience
 Developed a cost and market share dashboard in Tableau 📈, improving operational efficiency by 20%.
 Automated SQL ETL pipelines to consolidate and analyze insurance data, enhancing policy performance forecasting accuracy by 15%.
 Forecasted market conditions for 12 insurance options valued at 5 million RMB, presenting insights to leadership. 💡
+
 ⚖️ Castleton Law Group – Legal Intern
 
 Conducted quantitative assessments of appraisals in complex legal cases involving estates and probates. 📑
