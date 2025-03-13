@@ -20,9 +20,13 @@ Improved client satisfaction by consistently updating clients on case status and
 Technical Skills
 
 🛠️ Economic Analysis: Regression modeling, risk assessment, forecasting, panel data analysis
+
 💻 Programming Languages: Python (NumPy, Pandas, Seaborn, Matplotlib, Scikit-learn), SQL, R, STATA
+
 🤖 Machine Learning: Random Forest, Deep Learning (PyTorch), Clustering algorithms (KMeans, DBSCAN), OLS Regression
+
 📊 Data Visualization: Tableau, Power BI, Plotly, Folium
+
 📂 Software: Microsoft Office (Word, Excel, PowerPoint), JMP, Abacus Law
 
 Relevant Projects
@@ -31,14 +35,17 @@ Relevant Projects
 
 Engineered 18.8 million Uber pickup records using Python 🐍, applied clustering algorithms to identify demand hotspots, and created interactive geospatial visualizations.
 Reduced idle time by 20% by optimizing driver allocation. 🚗
+
 📈 Diversification of Risk Preference Analysis
 
 Quantified individual risk preferences using OLS regression models and analyzed data from the Survey of Consumer Finance (22,975 observations).
 Delivered critical monetary policy insights by evaluating institutional investors’ risk-taking behavior. 💰
+
 🎓 The Impact of Female Education on Childbirth
 
 Improved economic analysis precision by 70% through advanced regression techniques and multicollinearity checks.
 Increased the model's predictive power by 9%. 📉
+
 🤖 Deep Learning for Business Applications
 
 Explored advanced machine learning techniques, including Random Forest 🌳 and Deep Learning models, to solve business problems like customer segmentation and predictive analytics.
