@@ -1,6 +1,4 @@
 # About-me-
-About me 
-About Me
 Hi there! 👋 I'm Boyu Zhang, an analytical and results-driven professional with a strong foundation in economics, data analysis, and business strategy. I'm currently pursuing a Master of Science in Business Analytics (STEM) at the University of Southern California, Marshall School of Business, and I hold a Bachelor of Arts in Economics with a minor in Business Management from Boston University, where I graduated Summa Cum Laude with a 3.9/4.0 GPA.
 
 My passion lies in leveraging data-driven insights to solve complex economic and business challenges, making me a strong fit for roles in economic consulting. I thrive in environments where I can apply my expertise in quantitative analysis, statistical modeling, and machine learning to help organizations optimize their operations and achieve their goals.
